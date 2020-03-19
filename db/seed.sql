@@ -1,0 +1,1 @@
+insert into burgers(burger_name, devoured)values("Black Bean Burger",false),("Tex-Mex", false),("Black and Blue Burger",false),("Smash Burger",false);
